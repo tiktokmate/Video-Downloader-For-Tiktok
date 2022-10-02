@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundCorner">
+        <attr name="topLeftCornerRadius" format="dimension" />
+        <attr name="topRightCornerRadius" format="dimension" />
+        <attr name="bottomLeftCornerRadius" format="dimension" />
+        <attr name="bottomRightCornerRadius" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomViewShape">
+        <attr name="clip_drawable" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="ArcView">
+        <attr name="shape_arc_height" format="dimension"/>
+        <attr name="shape_arc_position" format="enum">
+            <enum name="bottom" value="1"/>
+            <enum name="top" value="2"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="4"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="ShapeOfView">
+        <attr name="shape_clip_drawable" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleShape">
+        <attr name="shape_borderWidth" format="dimension"/>
+        <attr name="shape_borderColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="StoriesProgressView">
+        <attr name="progressCount" format="integer|reference" />
+    </declare-styleable>
+
+</resources>

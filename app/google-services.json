@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797480735875",
+    "project_id": "ttdown-7be8b",
+    "storage_bucket": "ttdown-7be8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797480735875:android:d11b8be8e23027b15bb7b6",
+        "android_client_info": {
+          "package_name": "com.leetlab.videodownloaderfortiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797480735875-0c27681vu98nf2qdqbvln619ldcti1dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe79TdxHKOIOqWateMHfKoYqm6aFUN13w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797480735875-0c27681vu98nf2qdqbvln619ldcti1dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

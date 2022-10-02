@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15B4F1</color>
+    <color name="colorPrimaryLight">#4ABAEB</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#15B4F1</color>
+    <color name="colorStatusBar">#15B4F1</color>
+    <color name="colorPrimary20">#2015B4F1</color>
+    <color name="colorGradientStart">#3A7BD5</color>
+    <color name="colorGradientEnd">#00D2FF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteLight">#80FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack75">#75000000</color>
+    <color name="colorBlack50">#50000000</color>
+    <color name="colorBlack25">#25000000</color>
+    <color name="colorBlack10">#10000000</color>
+    <color name="colorGray">#9A9A9A</color>
+    <color name="colorGray75">#759A9A9A</color>
+    <color name="colorGray50">#509A9A9A</color>
+    <color name="colorGray25">#259A9A9A</color>
+    <color name="colorGray10">#109A9A9A</color>
+    <color name="colorRipple">#5015B4F1</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_photos_videos"
+        android:title="Video"
+        android:icon="@drawable/ic_instagram_story"/>
+    <item
+        android:id="@+id/menu_dp_saver"
+        android:title="Mp3"
+        android:icon="@drawable/ic_story"/>
+    <item
+        android:id="@+id/menu_insta_story"
+        android:title="Explore"
+        android:icon="@drawable/ic_dp"/>
+    <item
+        android:id="@+id/menu_downloads"
+        android:title="@string/downloads"
+        android:icon="@drawable/ic_downloading"/>
+</menu>

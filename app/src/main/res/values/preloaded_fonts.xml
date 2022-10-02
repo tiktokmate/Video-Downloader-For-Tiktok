@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/allerta</item>
+        <item>@font/amiko</item>
+        <item>@font/basic</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bevan</item>
+        <item>@font/biryani_semibold</item>
+        <item>@font/chango</item>
+        <item>@font/montserrat</item>
+        <item>@font/pacifico</item>
+        <item>@font/suez_one</item>
+    </array>
+</resources>

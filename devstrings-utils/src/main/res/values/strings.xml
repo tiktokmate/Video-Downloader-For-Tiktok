@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">utils</string>
+    <string name="response_failed">Something went wrong please check your internet connection and try again.</string>
+    <string name="ids_msg_share">Share Message</string>
+</resources>

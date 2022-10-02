@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FC3061</color>
+    <color name="colorPrimaryLight">#E29587</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FC3061</color>
+    <color name="colorGradientStart">#FC3061</color>
+    <color name="colorGradientCenter">#E4308A</color>
+    <color name="colorGradientEnd">#FC3061</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteLight">#80FFFFFF</color>
+    <color name="colorBgBlack">#222222</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack75">#75000000</color>
+    <color name="colorBlack90">#90000000</color>
+    <color name="colorBlack50">#50000000</color>
+    <color name="colorBlack25">#25000000</color>
+    <color name="colorBlack10">#10000000</color>
+    <color name="colorGray">#9A9A9A</color>
+    <color name="colorGray75">#759A9A9A</color>
+    <color name="colorGray50">#509A9A9A</color>
+    <color name="colorGray25">#259A9A9A</color>
+    <color name="colorGray10">#109A9A9A</color>
+    <color name="yellow">#FCB500</color>
+    <color name="yellowLight">#50FCB500</color>
+    <color name="colorBgDefault">#FAFAFA</color>
+    <color name="colortransparent">#34000000</color>
+    <color name="colorImagetransparent">#79000000</color>
+    <color name="blackTransparent">#6D000000</color>
+    <color name="colorcenter">#E94057</color>
+    <color name="colorend">#F27121</color>
+    <color name="colorstart">#8A2387</color>
+
+    <color name="dot_not_selected">#8E9098</color>
+    <color name="dot_selected">#FFFFFF</color>
+
+    <color name="gray_scale">#8affffff</color>
+    <color name="colorPink">#D81B60</color>
+    <color name="fb_color">#3b5998</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+        <item>@color/dot_selected</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+        <item>@color/dot_not_selected</item>
+    </array>
+
+    <color name="progress_primary">@android:color/white</color>
+    <color name="progress_secondary">#8affffff</color>
+    <color name="progress_max_active">@android:color/white</color>
+
+    <color name="colorRipple">#bdbdbd</color>
+
+</resources>

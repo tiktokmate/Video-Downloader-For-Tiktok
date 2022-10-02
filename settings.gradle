@@ -1,0 +1,2 @@
+include ':nativetemplates'
+include ':app', ':devstrings-utils', ':devstrings-admob'

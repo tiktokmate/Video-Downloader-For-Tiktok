@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tiktok Downloader</string>
+
+    <string name="privicy_policy_url">https://www.apada.app/p/wasv-privacy-policy.html</string>
+
+    <string name="home">Home</string>
+    <string name="downloads">Downloads</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="photo_videos">Insta</string>
+    <string name="dp_saver">DP Saver</string>
+
+    <string name="login_text1">To download <b>instagram Stories</b> , you need to login to instagram</string>
+    <string name="login_text2">The website you will login is the instagram official website,we never get your password in any way!</string>
+
+    <string name="step1_disc">You can easily save videos and images from Instagram posts to your Android device </string>
+    <string name="setp2_dis">This way, you can enjoy downloaded Story photos and Story videos anytime, anywhere, or share them with friends, or repost downloaded story to other social medias.</string>
+    <string name="step3_dec">The versatile design of the saved page makes it easy to manage downloaded Story images and videos, share Story videos and photos with your friends</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="download_photos_videos"><![CDATA[Download Photos & Videos]]></string>
+    <string name="No_Service_Avalabile">Device not supported</string>
+    <string name="Error_Message">Something went wrong</string>
+
+    <string name="PRODUCT_ID">xyz1234455566666</string>
+    <string name="LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjZQygKk36Fa5P+j4DAbFftHbVMOpZCRtu0vHIRQvXj6j4v9DjUataLKqg+lMtBTZNjccA5NoSRepT9aN6kGji2sPq+g0UNiqwWmXtsyN8VlNLIZDRkipdf9LbYUX3qFXWdn3kbHfTFlJI+/NjEgxF38HneWghElF4Uw05bG3cq17AjlBKm/FxGyvfFtsUmtZjMf0P11iPDNSCQCS34TTb3iu+X4r+G2MJqBROsYxadwEGIdQO/KW2AG+8QRDHb3NiuruX7wNmrZ/1SJym+nbFXfzapRxd8CS9n2av1SngGPnVlIE0cjrCd5Mk23PVUsHfYZOeF3G6/d/PFg3i1i/CQIDAQAB</string>
+    <string name="MERCHANT_ID">15339028193762449271</string>
+
+    <string name="Ads_remove">"Ads remove successfully "</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="insta_story">Insta Story</string>
+    <string name="privicy_policy">privicy_policy_URL</string>
+    <string name="str_error_no_internet">Something went wrong, please check your internet connection and try again.</string>
+    <string name="str_error_internal_server_error">Internal system error</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/1044960115</string>
+
+    <string name="default_notification_channel_id" translatable="false">default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">Video Downloader</string>
+
+</resources>
